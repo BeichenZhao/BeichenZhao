@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BeichenZhao
 - 👀 I’m interested in coding, music and marathon
 - 🌱 I’m currently learning biotechnology
-- 💞️ I’m looking to collaborate on gaming
+- 💞️ I’m looking to collaborate on gaming (for the global elite)
 - 📫 How to reach me zhaobeichen@gmail.com
 
 <!---
