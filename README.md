@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeichenZhao
+- 👋 Hi, I’m Eric
 - 👀 I’m interested in coding, photography and marathon
 - 🌱 I’m currently pursuing a PhD degree at the University of Auckland
 - 💞️ My goal is to construct a universal bioprocess Digital Twin
