@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Beichen
 - 👀 I’m interested in coding, photography and marathon
 - 🌱 I’m currently pursuing a PhD degree at the University of Auckland
-- 💞️ My goal is to construct a universal bioprocess Digital Twin
+- 💞️ My goal is to promote the digital transformation of biomanufacturing
 - 📫 How to reach me: zhaobeichen@gmail.com or search 'Beichen Zhao' in Linkedln
 
 <!---
